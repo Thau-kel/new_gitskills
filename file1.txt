@@ -1,2 +1,3 @@
 Git tracked the changes.
 Creating a new branch is quick and simple.
+Let's try --no-ff.
