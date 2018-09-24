@@ -1,11 +1,11 @@
 class Person:
-"""A simple class to represent a person."""
+    """A simple class to represent a person."""
     def __init__(self, name, age, location):
         self.name = name
         self.age = age
         self.location = location
 
-    def greet():
+    def greet(self):
         print(f"Hello, {self.name}, welcome back.")
 
 
